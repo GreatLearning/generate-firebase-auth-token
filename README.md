@@ -1,0 +1,1 @@
+# generate-firebase-auth-token
